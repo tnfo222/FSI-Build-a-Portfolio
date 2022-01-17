@@ -37,3 +37,8 @@ h1 {
       font-size: 23px;
       color: azure;
   }
+  body {
+    border: double;
+    padding:10px 25px;
+    border:1px solid #ccc;
+  }
