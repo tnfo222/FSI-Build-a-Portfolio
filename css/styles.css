@@ -32,6 +32,8 @@ h1 {
   img {
       border: 5px solid rgba(140, 223, 198, 0.979);
   }
-  span {
-      font-family: cursive;
+  font {
+      font-family: Segoe Script, cursive; 
+      font-size: 23px;
+      color: azure;
   }
