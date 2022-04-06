@@ -42,3 +42,14 @@ h1 {
     padding:10px 25px;
     border:1px solid #ccc;
   }
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+  }
+  nav {
+    background-color: grey;
+    padding: 5px;
+  }
